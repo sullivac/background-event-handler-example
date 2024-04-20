@@ -1,0 +1,6 @@
+@BackgroundEventHandlerExample_HostAddress = http://localhost:5095
+
+GET {{BackgroundEventHandlerExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
